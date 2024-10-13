@@ -1,4 +1,4 @@
-[![Banner1.png](https://i.postimg.cc/jqyqK9mH/Banner1.png)](https://postimg.cc/G9hnxMct)
+[![image.png](https://i.postimg.cc/CKZY26bf/image.png)](https://postimg.cc/t1HLZkSX)
 
 <img alt="Night Coding" src="" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
