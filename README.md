@@ -1,6 +1,6 @@
 [![image.png](https://i.postimg.cc/CKZY26bf/image.png)](https://postimg.cc/t1HLZkSX)
 
-<img alt="Night Coding" src="" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="" width='40' align="left"/><h2 align="left">Hey there! I'm Alex Rubio</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
