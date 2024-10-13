@@ -1,6 +1,6 @@
 [![image.png](https://i.postimg.cc/CKZY26bf/image.png)](https://postimg.cc/t1HLZkSX)
 
-<img alt="Night Coding" src="" width='40' align="left"/><h2 align="left">Hey there! I'm Alex Rubio</h2>
+# 👋 <h2 align="left">Hey there! I'm Alex Rubio</h2>
 
 # 💫 About Me:
 ✍️ I’m currently working on My portfolio website.<br>🎓 I'm currently studying Systems and Communications at CU UAEM Valle de México.<br>⚡ Passionate about programming and web development.<br>🔭 Focus on participating in challenging projects that drive my professional growth.<br>🤝 Open to collaborate and be part of creative teams, with the vision of standing out and facing new challenges.<br>
