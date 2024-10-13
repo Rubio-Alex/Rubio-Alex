@@ -1,6 +1,6 @@
-![Aditya Kanoi Banner](https://github.com/Adityakanoi2001/ASK/blob/28411921ee8f932e339cff3cf15830aa865eeff4/assets/header.png)
+[![Banner1.png](https://i.postimg.cc/jqyqK9mH/Banner1.png)](https://postimg.cc/G9hnxMct)
 
-<img alt="Night Coding" src="https://www.canva.com/design/DAGTadb4OXk/v1zWyJmhKlIcTB4kdVD5Fg/edit?utm_content=DAGTadb4OXk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
+<img alt="Night Coding" src="" width='40' align="left"/><h2 align="left">Hey there! I'm Aditya Kanoi</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya Kanoi -->
 
