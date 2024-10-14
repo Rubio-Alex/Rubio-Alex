@@ -1,6 +1,5 @@
 [![image.png](https://i.postimg.cc/CKZY26bf/image.png)](https://postimg.cc/t1HLZkSX)
-
-# 👋 Hey there! I'm Alex Rubio
+<h1 align="center">Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'M Alex Rubio</h1>
 
 # 💫 About Me:
 ✍️ I’m currently working on My portfolio website.<br>🎓 I'm currently studying Systems and Communications at CU UAEM Valle de México.<br>⚡ Passionate about programming and web development.<br>🔭 Focus on participating in challenging projects that drive my professional growth.<br>🤝 Open to collaborate and be part of creative teams, with the vision of standing out and facing new challenges.<br>
