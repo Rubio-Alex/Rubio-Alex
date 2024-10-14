@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 ✍️ I’m currently working on My portfolio website.<br>🎓 I'm currently studying Systems and Communications at CU UAEM Valle de México.<br>⚡ Passionate about programming and web development.<br>🔭 Focus on participating in challenging projects that drive my professional growth.<br>🤝 Open to collaborate and be part of creative teams, with the vision of standing out and facing new challenges.<br>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ra_alex010) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ara_230) 
